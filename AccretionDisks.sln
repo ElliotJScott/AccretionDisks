@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AccretionDisks", "AccretionDisks\AccretionDisks.pyproj", "{A53C9BB6-7F09-403F-A136-8A9A349E1F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A53C9BB6-7F09-403F-A136-8A9A349E1F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A53C9BB6-7F09-403F-A136-8A9A349E1F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F94DE49-E6AE-43E3-AD38-6A222DA5EAC2}
+	EndGlobalSection
+EndGlobal
